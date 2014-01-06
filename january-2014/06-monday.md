@@ -37,7 +37,7 @@ Release
 
 * Staging environment upgraded to the latest master
 * Added Cassandra config to the ```app.local.cfg```
-* Tester JobWorker with test messages. Worked smoothly.
+* Tester JobWorker with test messages. Worked smoothly. Need to add a config to supervisor
 
 
 Design
@@ -50,4 +50,17 @@ Architecture
 --------------
 
 - Does Postgres an overkill for PythonHackers ? 
+
+Postgres currently stores User/SocialUser/Projects/Packages/Messages 
+
+I think for storing User information, it is crucial. Also in the worst case scenario like the whole Cassandra cluster is down, we can still serve the website from Postgres. One other benefit is that we can utilize Flask Admin for basic administration stuff, which is extremely handy mostly.
+
+I guess the better strategy could be to decide what object/data to store in Postgres and what not. Stay away from high writes and place them as much as possible to Cassandra, think Postgres as the Master Data store for important things. 
+And use Memcache/Redis to cache data as much as possible. 
+
+Enough thinking.
+
+The End.
+
+
 
