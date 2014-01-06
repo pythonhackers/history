@@ -46,6 +46,15 @@ Design
 * Thought about the Tutorial object to be able to publish short tutorials about Python functionality/features etc..
 Generate HTML from Markdown on ```after_save``` of the Tutorial object. URL could be like ```tutorial/<user_nick>/<tutorial_slug>```
 
+UI
+-------------
+
+- Loading 400 projects each time when the ```/open-source/``` path is requested is utterly useless. I bet most people does not pass 50/100 projects. Lets think about a solution; **infinite scroll** with fetch 20 or 50 items per request. The initial request could return 30-50 projects and once the user starts to scroll down, fetch more. Need to implement
+JSON response logic with paging or latest index so that we can fetch the correct records from the database. Think about caching as well. 
+
+- Can we just store the complete list on memcache as a JSON object, maybe ?! 
+- Flask cache is also involved; how the combination of the two caching mechanism will work together. Think grasshoper later!
+
 Architecture
 --------------
 
