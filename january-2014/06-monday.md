@@ -1,4 +1,3 @@
-
 System
 ------------
 
@@ -28,6 +27,4 @@ Programming
 ------------
 * Rewrote the Cassandra management.py hierarchy.py connection.py https://github.com/pythonhackers/pythonhackers/commit/ce772e9e2e3a08cf03c0be7f27114e058960ddf1
 to both have a gracefiul start
-* Moved Cassandra host setting and keyspace settings to the configuration file so that staging/production can use different keyspaces
-* Try/Except block around Cassandra operations, thus stopping the whole cluster will not affect the production trafic once its upgraded. Fallback to Postgres
 * Partially fixed the Sentry import operation which was causing None object Exceptions ( since it's not initialized correctly)
