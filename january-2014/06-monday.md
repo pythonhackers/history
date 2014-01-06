@@ -30,3 +30,24 @@ Programming
 * Rewrote the Cassandra management.py hierarchy.py connection.py https://github.com/pythonhackers/pythonhackers/commit/ce772e9e2e3a08cf03c0be7f27114e058960ddf1
 to both have a gracefiul start
 * Partially fixed the Sentry import operation which was causing None object Exceptions ( since it's not initialized correctly)
+
+
+Release
+--------------
+
+* Staging environment upgraded to the latest master
+* Added Cassandra config to the ```app.local.cfg```
+* Tester JobWorker with test messages. Worked smoothly.
+
+
+Design
+--------------
+
+* Thought about the Tutorial object to be able to publish short tutorials about Python functionality/features etc..
+Generate HTML from Markdown on ```after_save``` of the Tutorial object. URL could be like ```tutorial/<user_nick>/<tutorial_slug>```
+
+Architecture
+--------------
+
+- Does Postgres an overkill for PythonHackers ? 
+
