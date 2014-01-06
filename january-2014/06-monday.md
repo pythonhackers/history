@@ -15,11 +15,13 @@ ERROR [os-metrics-5] 2014-01-06 16:01:59,052 Long os-stats collector failed: Can
 Agent needs iostat program to send information to the OpsCenter console.
 Installed [**sysstat**](http://packages.ubuntu.com/lucid/sysstat) on the machines ( which iostat is part of )
 
+Oracle Java7 Installation procedure for Debian/Ubuntu
 ```
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
 sudo apt-get install oracle-java7-installer
 ```
+
 Everything seems to be running smoothly afterwards.
 
 
