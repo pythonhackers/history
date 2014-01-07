@@ -30,4 +30,4 @@ SEO
 
 - Added meta keywords to the Tutorial page
 - Include tutorial title to the HTML Page
-- Added **Python Reverse List** page to the Google Site Index, listing on the 3rd page after 3mins! Amazing shit..
+- Added [Python Reverse list tutorial](http://pythonhackers.com/tutorial/bcambel/python-reverse-list) page to the Google Site Index, listing on the 3rd page after 3mins! Amazing shit..
