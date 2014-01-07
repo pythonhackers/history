@@ -3,7 +3,7 @@ Python Hackers work history
 
 What did I complete today for PythonHackers ?
 
-January
+January 2014
 --------------
 
 [January 07, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/07-tuesday.md)  
