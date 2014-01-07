@@ -22,3 +22,11 @@ Content
 
 - About page copied and modified from PythonArticles.com
 - [Python Reverse list tutorial](http://pythonhackers.com/tutorial/bcambel/python-reverse-list) added to the system 
+- Add Join button to the end of the About Page
+- Add Tweet button and personal Follow button + PythonHackers
+
+SEO
+-------------
+
+- Added meta keywords to the Tutorial page
+- Include tutorial title to the HTML Page
