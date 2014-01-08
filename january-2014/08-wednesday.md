@@ -18,3 +18,8 @@ SEO
 ----------
 
 - Searching for keywords that relates to the Python Sort 
+
+
+![screen shot 2014-01-08 at 11 57 23 pm](https://f.cloud.github.com/assets/144385/1873381/5a6c302a-78b8-11e3-97ea-ad363dc645f1.png)
+
+![screen shot 2014-01-08 at 11 59 05 pm](https://f.cloud.github.com/assets/144385/1873395/806c6704-78b8-11e3-9d01-2625507b1a6d.png)
