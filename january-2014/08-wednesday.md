@@ -2,6 +2,7 @@ Content
 -------------
 
 - Wrote [Sorting Article](http://pythonhackers.com/tutorial/bcambel/python-sort)
+- Wrote [Add To Article](http://pythonhackers.com/tutorial/bcambel/python-add-to-list)
 
 Development
 -------------
