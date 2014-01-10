@@ -17,7 +17,7 @@ UX
 ----------
 
 - Need to design the screens for 
--- After registration completed
--- Homepage of a user
--- Homepage of a new user
--- Recommended reading/projects/users etc.
+  - After registration completed  
+  - Homepage of a user  
+  - Homepage of a new user  
+  - Recommended reading/projects/users etc.  
