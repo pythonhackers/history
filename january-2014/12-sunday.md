@@ -31,3 +31,9 @@ Ideas
 
 - Python related votings; 
   - Language syntax ? ( e.g. Why does {} should contain quotes to define keys )
+  - 
+  
+Social Media
+-------------
+
+- Couple of people tweeted the Open Source Python Projects page. [Link](https://twitter.com/search?q=pythonhackers&f=realtime)
