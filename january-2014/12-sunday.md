@@ -35,4 +35,7 @@ Ideas
 Social Media
 -------------
 
+- Twitter follower count 271
+- Beta subscribers 223 ( 7 today )
+- Github 30 stars, 7 forks, 6 watchers
 - Couple of people tweeted the Open Source Python Projects page. [Link](https://twitter.com/search?q=pythonhackers&f=realtime)
