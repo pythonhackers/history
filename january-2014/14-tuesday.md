@@ -14,4 +14,4 @@ Development
 Prepare
 ----------
 
-- Prepare a presentation for the Python Meetup
+- Prepare a presentation for the Python Meetup ( 15-01-2014 ) [Meetup](http://www.meetup.com/dutch-django-assocation/events/155753652/)
