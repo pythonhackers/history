@@ -9,3 +9,9 @@ Development
 -------------
 
 - [Re-design the Cassandra models](https://github.com/pythonhackers/pythonhackers/commit/ee1b593d03880429ff4e8a5008c3be96c9ba1805)
+
+
+Prepare
+----------
+
+- Prepare a presentation for the Python Meetup
