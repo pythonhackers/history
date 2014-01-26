@@ -6,6 +6,11 @@ What did I complete today for PythonHackers ?
 January 2014
 --------------
 
+[January 26, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/26-sunday.md)  
+[January 25, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/25-saturday.md)  
+[January 24, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/24-friday.md)  
+[January 23, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/23-thursday.md)  
+[January 22, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/22-wednesday.md)  
 [January 21, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/21-tuesday.md)  
 [January 20, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/20-monday.md)  
 [January 19, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/19-sunday.md)  
