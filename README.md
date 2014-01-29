@@ -10,6 +10,7 @@ February 2014
 January 2014
 --------------
 
+[January 29, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/29-wednesday.md)  
 [January 28, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/28-tuesday.md)  
 [January 27, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/27-monday.md)  
 [January 26, 2014](https://github.com/pythonhackers/history/blob/master/january-2014/26-sunday.md)  
